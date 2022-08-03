@@ -34,3 +34,13 @@ body
     margin: auto;
     margin-top: 10px;
 }
+
+#subtitulo
+{
+    margin-top: 10px;
+}
+
+#post h1
+{
+    color: darkolivegreen;
+}
