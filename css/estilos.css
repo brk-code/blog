@@ -24,7 +24,6 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 1em;
-<<<<<<< HEAD
 }
 
 #cabecera #logo
@@ -40,11 +39,6 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: auto;
-}
-
-#container h1
-{
-    font-size: 20px;
 }
 
 #post
