@@ -11,5 +11,6 @@ Mi primer repositorio con esta cuenta, vamos a anexar un link de prueba para [ca
 * Siempre sigue las buenas practicas. 
 * Creado por Brayan Kari
 * Vamos a realizar muichas pruebas
+* Disponible para todas las edades
 
 Este es otro párrafo de prueba: **Este es un texto en negrita**. Diseñado con mucho cariño por Brayan Raul Kari, eh!!, este es su [**cuenta de GitHub**](https://github.com/brk-code).
