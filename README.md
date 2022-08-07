@@ -9,5 +9,6 @@ Mi primer repositorio con esta cuenta, vamos a anexar un link de prueba para [ca
 * Git y github son realmente geniales
 * Linux ubuntu es genial
 * Siempre sigue las buenas practicas. 
+* Creado por Brayan Kari
 
 Este es otro párrafo de prueba: **Este es un texto en negrita**. Diseñado con mucho cariño por Brayan Raul Kari, eh!!, este es su [**cuenta de GitHub**](https://github.com/brk-code).
